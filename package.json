@@ -40,7 +40,7 @@
     "@fullcalendar/timegrid": "^4.4.0",
     "admin-resources": "git+https://github.com/coderthemes/admin-resources.git#master",
     "animate.css": "^3.7.0",
-    "apexcharts": "3.16.1",
+    "apexcharts": "3.24.0",
     "autonumeric": "^1.9.39",
     "bootstrap": "^4.4.1",
     "bootstrap-colorpicker": "^3.2.0",
